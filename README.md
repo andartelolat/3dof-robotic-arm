@@ -2,6 +2,8 @@
 this code use joystick to control 3 dof robotic arm
 
 basic code for controlling servos using the library servo.h
+you can download the library here : https://github.com/arduino-libraries/Servo
+to download the IDE : https://arduino.cc/
 the compononent i use for this project is :
 1. Arduino uno
 2. set of bracket arm robot acrylic based
